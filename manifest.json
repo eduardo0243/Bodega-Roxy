@@ -1,0 +1,13 @@
+{
+  "name": "Bodega Roxy",
+  "short_name": "Bodega Roxy",
+  "description": "Inventario, ventas y ganancias en bolívares y dólares",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f6fb",
+  "theme_color": "#071d38",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}],
+  "lang": "es"
+}
